@@ -1,0 +1,177 @@
+﻿L452R,T478K,E484K,N501Y,assay,value
+0,0,0,0,yeast-binding,1732
+1,0,0,0,yeast-binding,923
+0,1,0,0,yeast-binding,1786
+0,0,1,0,yeast-binding,1244
+0,0,0,1,yeast-binding,480
+1,1,0,0,yeast-binding,1362
+1,0,1,0,yeast-binding,660
+1,0,0,1,yeast-binding,527
+0,1,1,0,yeast-binding,1155
+0,1,0,1,yeast-binding,1022
+0,0,1,1,yeast-binding,118
+1,1,1,0,yeast-binding,760
+1,1,0,1,yeast-binding,972
+1,0,1,1,yeast-binding,543
+0,1,1,1,yeast-binding,1581
+1,1,1,1,yeast-binding,325
+0,0,0,0,yeast-binding,1653
+1,0,0,0,yeast-binding,1263
+0,1,0,0,yeast-binding,1865
+0,0,1,0,yeast-binding,1454
+0,0,0,1,yeast-binding,507
+1,1,0,0,yeast-binding,1209
+1,0,1,0,yeast-binding,859
+1,0,0,1,yeast-binding,489
+0,1,1,0,yeast-binding,1204
+0,1,0,1,yeast-binding,662
+0,0,1,1,yeast-binding,198
+1,1,1,0,yeast-binding,1191
+1,1,0,1,yeast-binding,964
+1,0,1,1,yeast-binding,469
+0,1,1,1,yeast-binding,1774
+1,1,1,1,yeast-binding,205
+0,0,0,0,yeast-binding,1634
+1,0,0,0,yeast-binding,1155
+0,1,0,0,yeast-binding,2014
+0,0,1,0,yeast-binding,1301
+0,0,0,1,yeast-binding,588
+1,1,0,0,yeast-binding,1457
+1,0,1,0,yeast-binding,637
+1,0,0,1,yeast-binding,429
+0,1,1,0,yeast-binding,1402
+0,1,0,1,yeast-binding,846
+0,0,1,1,yeast-binding,114
+1,1,1,0,yeast-binding,898
+1,1,0,1,yeast-binding,893
+1,0,1,1,yeast-binding,407
+0,1,1,1,yeast-binding,1447
+1,1,1,1,yeast-binding,220
+0,0,0,0,pseudovirus,104.2
+1,0,0,0,pseudovirus,121.9
+0,1,0,0,pseudovirus,110
+0,0,1,0,pseudovirus,83.8
+0,0,0,1,pseudovirus,93.9
+1,1,0,0,pseudovirus,159.9
+1,0,1,0,pseudovirus,108.3
+1,0,0,1,pseudovirus,139.9
+0,1,1,0,pseudovirus,93.8
+0,1,0,1,pseudovirus,100.3
+0,0,1,1,pseudovirus,61
+1,1,1,0,pseudovirus,103.4
+1,1,0,1,pseudovirus,134.8
+1,0,1,1,pseudovirus,77.5
+0,1,1,1,pseudovirus,62.1
+1,1,1,1,pseudovirus,77.6
+0,0,0,0,pseudovirus,97.5
+1,0,0,0,pseudovirus,138.2
+0,1,0,0,pseudovirus,125.3
+0,0,1,0,pseudovirus,90.4
+0,0,0,1,pseudovirus,94.5
+1,1,0,0,pseudovirus,143.9
+1,0,1,0,pseudovirus,161.7
+1,0,0,1,pseudovirus,117.6
+0,1,1,0,pseudovirus,82.9
+0,1,0,1,pseudovirus,123.2
+0,0,1,1,pseudovirus,62
+1,1,1,0,pseudovirus,106.3
+1,1,0,1,pseudovirus,190.7
+1,0,1,1,pseudovirus,73.6
+0,1,1,1,pseudovirus,67.2
+1,1,1,1,pseudovirus,109.6
+0,0,0,0,pseudovirus,93.9
+1,0,0,0,pseudovirus,146.4
+0,1,0,0,pseudovirus,130.7
+0,0,1,0,pseudovirus,97.5
+0,0,0,1,pseudovirus,80.8
+1,1,0,0,pseudovirus,150.5
+1,0,1,0,pseudovirus,108
+1,0,0,1,pseudovirus,115.2
+0,1,1,0,pseudovirus,74.4
+0,1,0,1,pseudovirus,121.4
+0,0,1,1,pseudovirus,58.5
+1,1,1,0,pseudovirus,100.9
+1,1,0,1,pseudovirus,156.6
+1,0,1,1,pseudovirus,77.1
+0,1,1,1,pseudovirus,53.6
+1,1,1,1,pseudovirus,109
+0,0,0,0,pseudovirus,104.3
+1,0,0,0,pseudovirus,147.3
+0,1,0,0,pseudovirus,136.5
+0,0,1,0,pseudovirus,108
+0,0,0,1,pseudovirus,77.8
+1,1,0,0,pseudovirus,167.3
+1,0,1,0,pseudovirus,127
+1,0,0,1,pseudovirus,131.9
+0,1,1,0,pseudovirus,88.4
+0,1,0,1,pseudovirus,130.1
+0,0,1,1,pseudovirus,66.8
+1,1,1,0,pseudovirus,120
+1,1,0,1,pseudovirus,172.6
+1,0,1,1,pseudovirus,81.5
+0,1,1,1,pseudovirus,65.1
+1,1,1,1,pseudovirus,101.2
+0,0,0,0,fusion ,2.5
+1,0,0,0,fusion ,3.7
+0,1,0,0,fusion ,4.3
+0,0,1,0,fusion ,3.5
+0,0,0,1,fusion ,4.2
+1,1,0,0,fusion ,4.5
+1,0,1,0,fusion ,6.1
+1,0,0,1,fusion ,5.4
+0,1,1,0,fusion ,4.6
+0,1,0,1,fusion ,4.9
+0,0,1,1,fusion ,4.9
+1,1,1,0,fusion ,4.5
+1,1,0,1,fusion ,5.1
+1,0,1,1,fusion ,4.4
+0,1,1,1,fusion ,3.2
+1,1,1,1,fusion ,3.7
+0,0,0,0,fusion ,2.7
+1,0,0,0,fusion ,3.3
+0,1,0,0,fusion ,4.7
+0,0,1,0,fusion ,3.5
+0,0,0,1,fusion ,4.5
+1,1,0,0,fusion ,5.2
+1,0,1,0,fusion ,6.7
+1,0,0,1,fusion ,5.8
+0,1,1,0,fusion ,5.7
+0,1,0,1,fusion ,4.1
+0,0,1,1,fusion ,4.4
+1,1,1,0,fusion ,4.7
+1,1,0,1,fusion ,4.1
+1,0,1,1,fusion ,4.4
+0,1,1,1,fusion ,3.4
+1,1,1,1,fusion ,3.3
+0,0,0,0,fusion ,2.9
+1,0,0,0,fusion ,3.6
+0,1,0,0,fusion ,5.1
+0,0,1,0,fusion ,3.5
+0,0,0,1,fusion ,4.9
+1,1,0,0,fusion ,4.8
+1,0,1,0,fusion ,6.1
+1,0,0,1,fusion ,5.5
+0,1,1,0,fusion ,4.8
+0,1,0,1,fusion ,4.4
+0,0,1,1,fusion ,4.4
+1,1,1,0,fusion ,4.4
+1,1,0,1,fusion ,3.5
+1,0,1,1,fusion ,4.4
+0,1,1,1,fusion ,3.8
+1,1,1,1,fusion ,3.3
+0,0,0,0,fusion ,2.6
+1,0,0,0,fusion ,4.6
+0,1,0,0,fusion ,4.6
+0,0,1,0,fusion ,3.3
+0,0,0,1,fusion ,4.5
+1,1,0,0,fusion ,5.4
+1,0,1,0,fusion ,5.8
+1,0,0,1,fusion ,6.7
+0,1,1,0,fusion ,5.0
+0,1,0,1,fusion ,5.0
+0,0,1,1,fusion ,5.0
+1,1,1,0,fusion ,4.4
+1,1,0,1,fusion ,4.0
+1,0,1,1,fusion ,3.4
+0,1,1,1,fusion ,4.0
+1,1,1,1,fusion ,2.7

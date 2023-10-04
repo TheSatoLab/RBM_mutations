@@ -1,0 +1,15 @@
+>metadata
+Virus name	Type	Accession ID	Collection date	Location	Additional location information	Sequence length	Host	Patient age	Gender	Clade	Pango lineage	Pangolin version	Variant	AA Substitutions	Submission date	Is reference?	Is complete?	Is high coverage?	Is low coverageN-Content	GC-Content
+
+>mut.data
+Id	mut
+
+>mut_RBM
+gisaid_epi_isl	pango_lineage	date	Spike_L452	Spike_T478	Spike_E484	Spike_N501
+
+
+
+
+>>new version
+>metadata
+Virus name	Last vaccinated	Passage details/history	Type	Accession ID	Collection date	Location	Additional location information	Sequence lengthHost	Patient age	Gender	Clade	Pango lineage	Pangolin version	Variant	AA Substitutions	Submission date	Is reference?	Is complete?	Is high coverage?	Is low coverage?	N-Content	GC-Content
